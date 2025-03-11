@@ -1,0 +1,1 @@
+#Arquivo para setup inicial app mercado-livro#
